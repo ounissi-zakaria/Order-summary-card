@@ -34,8 +34,8 @@ Mobile active state\
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ounissi-zakaria/Order-summary-card)
-- Live Site URL: [Add live site URL here](https://ounissi-zakaria.github.io/Order-summary-card/)
+- Solution URL: [](https://github.com/ounissi-zakaria/Order-summary-card)
+- Live Site URL: [](https://ounissi-zakaria.github.io/Order-summary-card/)
 
 ### Built with
 
