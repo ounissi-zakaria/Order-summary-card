@@ -27,15 +27,15 @@ Desktop active state\
 <img src="./screenshots/desktop-active-state.png">
 
 Mobile design \
-<img src="./screenshots/desktop-active-state.png" height="709px" width="375px">
+<img src="./screenshots/mobile.png" height="709px" width="375px">
 
 Mobile active state\
 <img src="./screenshots/mobile-active-state.png" height="709px" width="375px">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ounissi-zakaria/Order-summary-card)
+- Live Site URL: [Add live site URL here](https://ounissi-zakaria.github.io/Order-summary-card/)
 
 ### Built with
 
