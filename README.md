@@ -20,9 +20,9 @@ Users should be able to:
 ## Overview
 
 ### Screenshot
-
-![Desktop design](./screenshots/desktop.png)
-![Desktop active state](./screenshots/desktop-active-state.png)
+Desktop design
+<img src="./screenshots/desktop.png" height="900px">
+<img src="./screenshots/desktop-active-state.png" height="900px">
 ![Mobile design](./screenshots/mobile.png)
 ![Mobile active state](./screenshots/mobile-active-state.png)
 
