@@ -20,13 +20,16 @@ Users should be able to:
 ## Overview
 
 ### Screenshot
-Desktop design
+Desktop design\
 <img src="./screenshots/desktop.png">
-Desktop active state
+
+Desktop active state\
 <img src="./screenshots/desktop-active-state.png">
-Mobile design
+
+Mobile design \
 <img src="./screenshots/desktop-active-state.png" height="709px" width="375px">
-Mobile active state
+
+Mobile active state\
 <img src="./screenshots/mobile-active-state.png" height="709px" width="375px">
 
 ### Links
