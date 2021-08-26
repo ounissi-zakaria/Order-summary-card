@@ -21,10 +21,13 @@ Users should be able to:
 
 ### Screenshot
 Desktop design
-<img src="./screenshots/desktop.png" height="900px">
-<img src="./screenshots/desktop-active-state.png" height="900px">
-![Mobile design](./screenshots/mobile.png)
-![Mobile active state](./screenshots/mobile-active-state.png)
+<img src="./screenshots/desktop.png">
+Desktop active state
+<img src="./screenshots/desktop-active-state.png">
+Mobile design
+<img src="./screenshots/desktop-active-state.png" height="709px" width="375px">
+Mobile active state
+<img src="./screenshots/mobile-active-state.png" height="709px" width="375px">
 
 ### Links
 
