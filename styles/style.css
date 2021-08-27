@@ -88,6 +88,7 @@ p#desc, h2, div#plan p{
 }
 
 div#plan {
+  height: 14%;
   border-radius: 10px;
   overflow: hidden;
   display: flex;
@@ -117,6 +118,7 @@ h1, h2,#cancel:active {
   background-color: hsl(245, 75%, 52%);
   color: white;
   text-decoration: none;
+  box-shadow: 0 5px 15px hsl(224, 23%, 55%);
 }
 #proceed:active {
   opacity: 0.8;
@@ -127,4 +129,7 @@ h1, h2,#cancel:active {
 }
 #change:active {
   text-decoration: none;
+}
+#cancel {
+  margin-top: 0;
 }
